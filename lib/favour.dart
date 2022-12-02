@@ -67,7 +67,7 @@ class _FavourState extends State<Favour> {
                             decoration: BoxDecoration(
                                 border: Border.all(
                                     width: 1,
-                                    color: Color.fromARGB(115, 0, 0, 0)),
+                                    color: Color.fromARGB(116, 0, 0, 0)),
                                 borderRadius: BorderRadius.circular(20)),
                             child: Column(
                               children: [
