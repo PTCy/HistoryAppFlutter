@@ -1,16 +1,4 @@
-# ui_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Life History Application
+![17](https://user-images.githubusercontent.com/86775174/230718030-68d9d14c-400b-4cdd-a9b8-2061491be3ed.png)
+![18](https://user-images.githubusercontent.com/86775174/230718032-6a2a11c3-7575-4d5b-9061-3dabe22f5949.png)
+![19](https://user-images.githubusercontent.com/86775174/230718034-856cb1af-8928-40e6-9613-7e637c20e9c5.png)
